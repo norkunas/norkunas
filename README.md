@@ -7,7 +7,7 @@ I’m currently working at [Aciety](https://aciety.com).
 
 - [OneSignal PHP API](https://github.com/norkunas/onesignal-php-api)
 
-- [youtube-dl/yt-dlp for PHP](https://github.com/norkunas/youtube-dl)
+- [youtube-dl/yt-dlp for PHP](https://github.com/norkunas/youtube-dl-php)
 
 - [getavataaars generator for PHP](https://github.com/politriukas/avataaars) (https://getavataaars.com/)
 
