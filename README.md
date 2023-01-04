@@ -23,6 +23,7 @@ I’m currently working at [Aciety](https://aciety.com).
 - [ApiPlatform core](https://github.com/api-platform/core)
 - [MeiliSearch PHP](https://github.com/meilisearch/meilisearch-php), [MeiliSearch Symfony](https://github.com/meilisearch/meilisearch-symfony)
 - [Geocoder](https://github.com/geocoder-php/Geocoder)
+- [flysystem-bundle](https://github.com/thephpleague/flysystem-bundle)
 - [PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle)
 - [KarserRecaptcha3Bundle](https://github.com/karser/KarserRecaptcha3Bundle)
 - [Doctrine ORM](https://github.com/doctrine/orm), [DoctrineBundle](https://github.com/doctrine/DoctrineBundle), [Doctrine RST Parser](https://github.com/doctrine/rst-parser)
