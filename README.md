@@ -16,6 +16,7 @@ I’m currently working at [Aciety](https://aciety.com).
 ### Maintaining
 
 - [BazingaGeocoderBundle](https://github.com/geocoder-php/BazingaGeocoderBundle)
+- [meilisearch-php](https://github.com/meilisearch/meilisearch-php) & [meilisearch-symfony](https://github.com/meilisearch/meilisearch-symfony) (outside collaborator)
 
 ### Contributed to
 
