@@ -34,7 +34,7 @@ I’m currently working at [Aciety](https://aciety.com).
 - [angular-material-datetimepicker](https://github.com/beenote/angular-material-datetimepicker)
 - [TMDb Symfony bundle](https://github.com/php-tmdb/symfony)
 
-Reach me **at Symfony slack @norkunas or norkunas[dot]tom[dot]gmail[dot]com**
+Reach me **at Symfony slack @norkunas or Discord @norkunas or norkunas[dot]tom[dot]gmail[dot]com**
 
 ### Connect with me:
 <p align="left">
