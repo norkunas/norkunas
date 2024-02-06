@@ -28,6 +28,7 @@ I’m currently working at [Aciety](https://aciety.com).
 - [PrestaSitemapBundle](https://github.com/prestaconcept/PrestaSitemapBundle)
 - [KarserRecaptcha3Bundle](https://github.com/karser/KarserRecaptcha3Bundle)
 - [Doctrine ORM](https://github.com/doctrine/orm), [DoctrineBundle](https://github.com/doctrine/DoctrineBundle), [Doctrine RST Parser](https://github.com/doctrine/rst-parser)
+- [doctrine-json-odm](https://github.com/dunglas/doctrine-json-odm)
 - [HTML Sanitizer](https://github.com/tgalopin/html-sanitizer), [HtmlSanitizerBundle](https://github.com/tgalopin/html-sanitizer-bundle)
 - [JWTRefreshTokenBundle](https://github.com/markitosgv/JWTRefreshTokenBundle)
 - [angular-material](https://github.com/angular/material)
